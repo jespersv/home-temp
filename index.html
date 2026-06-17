@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Home sensors — year over year</title>
+  <link rel="stylesheet" href="styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <header>
+    <h1>Home sensors</h1>
+    <p class="subtitle">Daily averages compared year over year (deCONZ / lumi.weather)</p>
+    <div class="controls">
+      <label for="roomSelect">Room</label>
+      <select id="roomSelect"></select>
+      <span id="generated" class="generated"></span>
+    </div>
+  </header>
+
+  <main id="charts">
+    <section class="chart-card"><canvas id="chart-temperature"></canvas></section>
+    <section class="chart-card"><canvas id="chart-humidity"></canvas></section>
+    <section class="chart-card"><canvas id="chart-pressure"></canvas></section>
+    <section class="chart-card"><canvas id="chart-battery"></canvas></section>
+  </main>
+
+  <p id="status" class="status"></p>
+
+  <script src="app.js"></script>
+</body>
+</html>
