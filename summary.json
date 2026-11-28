@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-11-27T07:00:16.7211108Z",
+  "generatedUtc": "2026-11-28T07:00:21.6722528Z",
   "rooms": [
     "Attic",
     "Bedroom 2",
@@ -105607,21 +105607,21 @@
       "room": "Attic",
       "temperature": {
         "min": -3.36,
-        "avg": -2.57,
-        "max": -2.25,
-        "count": 7
+        "avg": 0.26,
+        "max": 4.46,
+        "count": 23
       },
       "humidity": {
-        "min": 80.23,
-        "avg": 81.32,
-        "max": 81.71,
-        "count": 7
+        "min": 75.6,
+        "avg": 80.14,
+        "max": 86.26,
+        "count": 23
       },
       "pressure": {
         "min": 1021,
-        "avg": 1021.9,
-        "max": 1022,
-        "count": 7
+        "avg": 1024.3,
+        "max": 1029,
+        "count": 23
       },
       "battery": 78
     },
@@ -105630,21 +105630,21 @@
       "room": "Bedroom 2",
       "temperature": {
         "min": 19.61,
-        "avg": 19.64,
-        "max": 19.68,
-        "count": 7
+        "avg": 19.73,
+        "max": 19.86,
+        "count": 23
       },
       "humidity": {
         "min": 29.82,
-        "avg": 30.09,
-        "max": 30.54,
-        "count": 7
+        "avg": 31.17,
+        "max": 32.28,
+        "count": 23
       },
       "pressure": {
         "min": 1036,
-        "avg": 1036,
-        "max": 1036,
-        "count": 7
+        "avg": 1038.8,
+        "max": 1044,
+        "count": 23
       },
       "battery": 100
     },
@@ -105652,22 +105652,22 @@
       "date": "2026-11-27",
       "room": "Hallway 2nd Floor",
       "temperature": {
-        "min": 21.36,
-        "avg": 21.5,
+        "min": 21.26,
+        "avg": 21.42,
         "max": 21.66,
-        "count": 7
+        "count": 23
       },
       "humidity": {
-        "min": 32.63,
-        "avg": 36.3,
+        "min": 31.55,
+        "avg": 34.08,
         "max": 49.71,
-        "count": 7
+        "count": 23
       },
       "pressure": {
         "min": 1051,
-        "avg": 1051.1,
-        "max": 1052,
-        "count": 7
+        "avg": 1054.1,
+        "max": 1059,
+        "count": 23
       },
       "battery": 100
     },
@@ -105676,21 +105676,21 @@
       "room": "Kitchen",
       "temperature": {
         "min": 23,
-        "avg": 23.14,
-        "max": 23.34,
-        "count": 7
+        "avg": 23.39,
+        "max": 24.12,
+        "count": 23
       },
       "humidity": {
-        "min": 28.24,
-        "avg": 29,
-        "max": 30.88,
-        "count": 7
+        "min": 28.14,
+        "avg": 29.7,
+        "max": 31.98,
+        "count": 23
       },
       "pressure": {
         "min": 1040,
-        "avg": 1040,
-        "max": 1040,
-        "count": 7
+        "avg": 1042.9,
+        "max": 1048,
+        "count": 23
       },
       "battery": 100
     },
@@ -105698,22 +105698,22 @@
       "date": "2026-11-27",
       "room": "Office 1",
       "temperature": {
-        "min": 21.37,
-        "avg": 21.63,
+        "min": 20.87,
+        "avg": 21.23,
         "max": 22.27,
-        "count": 7
+        "count": 23
       },
       "humidity": {
         "min": 30.58,
-        "avg": 31.75,
+        "avg": 32.37,
         "max": 36.09,
-        "count": 7
+        "count": 23
       },
       "pressure": {
         "min": 1022,
-        "avg": 1022,
-        "max": 1022,
-        "count": 7
+        "avg": 1024.9,
+        "max": 1029,
+        "count": 23
       },
       "battery": 100
     },
@@ -105721,21 +105721,159 @@
       "date": "2026-11-27",
       "room": "Shed",
       "temperature": {
-        "min": 7.49,
-        "avg": 7.83,
-        "max": 8.59,
-        "count": 7
+        "min": 7.47,
+        "avg": 8.27,
+        "max": 8.86,
+        "count": 23
       },
       "humidity": {
-        "min": 64.11,
-        "avg": 64.79,
+        "min": 63.31,
+        "avg": 64.12,
         "max": 65.16,
-        "count": 7
+        "count": 23
       },
       "pressure": {
         "min": 1037,
-        "avg": 1037.4,
-        "max": 1038,
+        "avg": 1039,
+        "max": 1040,
+        "count": 23
+      },
+      "battery": 100
+    },
+    {
+      "date": "2026-11-28",
+      "room": "Attic",
+      "temperature": {
+        "min": 1.81,
+        "avg": 1.86,
+        "max": 1.89,
+        "count": 7
+      },
+      "humidity": {
+        "min": 76.86,
+        "avg": 77.04,
+        "max": 77.26,
+        "count": 7
+      },
+      "pressure": {
+        "min": 1030,
+        "avg": 1030.4,
+        "max": 1031,
+        "count": 7
+      },
+      "battery": 78
+    },
+    {
+      "date": "2026-11-28",
+      "room": "Bedroom 2",
+      "temperature": {
+        "min": 19.86,
+        "avg": 19.89,
+        "max": 19.93,
+        "count": 7
+      },
+      "humidity": {
+        "min": 30.73,
+        "avg": 30.8,
+        "max": 30.9,
+        "count": 7
+      },
+      "pressure": {
+        "min": 1045,
+        "avg": 1045.1,
+        "max": 1046,
+        "count": 7
+      },
+      "battery": 100
+    },
+    {
+      "date": "2026-11-28",
+      "room": "Hallway 2nd Floor",
+      "temperature": {
+        "min": 21.77,
+        "avg": 21.83,
+        "max": 21.9,
+        "count": 7
+      },
+      "humidity": {
+        "min": 34.16,
+        "avg": 34.79,
+        "max": 35.59,
+        "count": 7
+      },
+      "pressure": {
+        "min": 1060,
+        "avg": 1060.1,
+        "max": 1061,
+        "count": 7
+      },
+      "battery": 100
+    },
+    {
+      "date": "2026-11-28",
+      "room": "Kitchen",
+      "temperature": {
+        "min": 23.55,
+        "avg": 23.8,
+        "max": 24.12,
+        "count": 7
+      },
+      "humidity": {
+        "min": 29.07,
+        "avg": 29.45,
+        "max": 30.12,
+        "count": 7
+      },
+      "pressure": {
+        "min": 1048,
+        "avg": 1049,
+        "max": 1050,
+        "count": 7
+      },
+      "battery": 100
+    },
+    {
+      "date": "2026-11-28",
+      "room": "Office 1",
+      "temperature": {
+        "min": 21.75,
+        "avg": 22.09,
+        "max": 22.55,
+        "count": 7
+      },
+      "humidity": {
+        "min": 32.13,
+        "avg": 32.47,
+        "max": 33.67,
+        "count": 7
+      },
+      "pressure": {
+        "min": 1030,
+        "avg": 1031,
+        "max": 1032,
+        "count": 7
+      },
+      "battery": 100
+    },
+    {
+      "date": "2026-11-28",
+      "room": "Shed",
+      "temperature": {
+        "min": 8.86,
+        "avg": 8.86,
+        "max": 8.86,
+        "count": 7
+      },
+      "humidity": {
+        "min": 63.31,
+        "avg": 63.31,
+        "max": 63.31,
+        "count": 7
+      },
+      "pressure": {
+        "min": 1040,
+        "avg": 1040,
+        "max": 1040,
         "count": 7
       },
       "battery": 100
